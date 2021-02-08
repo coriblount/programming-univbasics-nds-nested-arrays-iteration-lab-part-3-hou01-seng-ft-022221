@@ -1,6 +1,7 @@
 def join_nested_strings(src)
   final string = " "
-  sum = 0 
+  row_index = 0
+  
   count = 0
   while count < array.length do
     count +=1
