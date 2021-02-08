@@ -1,4 +1,5 @@
 def join_nested_strings(src)
+  final string = " "
   sum = 0 
   count = 0
   while count < array.length do
